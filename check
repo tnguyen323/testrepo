@@ -1,0 +1,4 @@
+The "Authorization" scheme which is intended primarily to allow a sender to request access to a resource or resources by proving that they control a secret key. This specification allows for this both with a shared secret (using HMAC) or with public/ private keys. The "Authorization" scheme is typically used in
+authentication processes and not directly for message signing. Checking account test.
+
+ACfa210d7ca51b2d974fff498c4383e374
