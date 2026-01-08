@@ -1,4 +1,5 @@
 The "Authorization" scheme which is intended primarily to allow a sender to request access to a resource or resources by proving that they control a secret key. This specification allows for this both with a shared secret (using HMAC) or with public/ private keys. The "Authorization" scheme is typically used in
-authentication processes and not directly for message signing. Checking account test.
+authentication processes and not directly for message signing. As a consequence `Authorization` header is normally generated (and the message signed) by the HTTP client and the message verified by the HTTP server.ef60a1e2960ce515067890fa4a3d6be9
+ee0098e61d135959290bff66fbd7d6b6
 
 ACfa210d7ca51b2d974fff498c4383e374
